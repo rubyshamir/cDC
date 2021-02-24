@@ -1,7 +1,7 @@
 import numpy as np
 
 '''
-Implementation of the continous Dice Coefficient (https://www.biorxiv.org/content/10.1101/306977v1.full.pdf)
+Implementation of the continuous Dice Coefficient (https://www.biorxiv.org/content/10.1101/306977v1.full.pdf)
 "Continuous Dice Coefficient: a Method for Evaluating Probabilistic Segmentations"
 Reuben R Shamir,Yuval Duchin, Jinyoung Kim, Guillermo Sapiro, and Noam Harel
 
