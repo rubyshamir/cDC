@@ -1,4 +1,4 @@
-# cDC - Implementation of continuous Dice coefficient  
+# continuous Dice coefficient  
 
 We implement the paper: Continuous Dice Coefficient: a Method for Evaluating Probabilistic Segmentations, Reuben R Shamir et al.
 2019
